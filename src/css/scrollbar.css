@@ -1,7 +1,8 @@
-*::-webkit-scrollbar{
+*::-webkit-scrollbar {
   width: 12px;
 }
-*::-webkit-scrollbar-track{
+
+*::-webkit-scrollbar-track {
   background: #f1e9e9;
 }
 
